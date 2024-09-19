@@ -19,3 +19,5 @@ print(counts)
 
 I'm Zhengwei Zhang, a student in Health Data Science who attended in Summer 2024. I wish to learn more skills about biomedical research to achieve my goal of working in the most influential biomedical institutions or enterprises and participating in solving difficult biomedical problems. To achieve this goal, more skills and more practice are necessary. In this course, I really want to learn how to use software or programming languages that are commonly used by employees in various biomedical enterprises and institutions in real life.
 
+## Add a link
+[This is an external link to Python.org](https://www.python.org)
